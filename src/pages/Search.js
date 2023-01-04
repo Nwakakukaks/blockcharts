@@ -108,7 +108,7 @@ const ResolveDomain = () => {
               
               <button
                 className="text-lg font-semibold bg-gray-200 py-3 px-8 self-start mx-3 mt-4 border-none rounded-full disabled:bg-gray-400 disabled:text-gray-800"
-                onClick={() => {setSubmitted(false),hide}}
+                onClick={() => {setSubmitted(false); hide()}}
               >
                 Close
               </button>
