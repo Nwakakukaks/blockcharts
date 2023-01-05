@@ -1,3 +1,4 @@
+
 # Create React App
 
 This directory is a brief example of a [Create React App](https://github.com/facebook/create-react-app) site that can be deployed to Vercel with zero configuration.
@@ -29,3 +30,20 @@ Launches the test runner in the interactive watch mode. See the section about [r
 Builds the app for production to the `build` folder.
 
 It correctly bundles React in production mode and optimizes the build for the best performance. The build is minified and the filenames include the hashes.
+
+### `Tech Stack Used`
+
+We used Graph to aggregate on-chain collection and NFT data, Coinbase wallet for donations, Ethereum Push Notification Services for notifications, and Polygon for deployment.
+
+### `Demo Video & Unstoppable domain presentation `
+
+### `Live Link`
+
+https://blockcharts.vercel.app/
+
+## `contact`
+
+Name: Nwakaku Winner
+Discord: Chukwuemeka#0889
+Email: winnernwakaku123@gmail.com
+Domain: Nwakaku80.nft
