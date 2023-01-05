@@ -43,7 +43,10 @@ https://blockcharts.vercel.app/
 
 ## `contact`
 
-Name: Nwakaku Winner
+name: Nwakaku Winner
+
 Discord: Chukwuemeka#0889
+
 Email: winnernwakaku123@gmail.com
+
 Domain: Nwakaku80.nft
